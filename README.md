@@ -17,19 +17,19 @@ Creating links and linking it with artboards
 Preview the prototype.
 
 ## DESIGN SCREENS:
-![output](./static/images/home(design).jpg)
-![output](./static/images/products(design).jpg)
-![output](./static/images/people(design).jpg)
-![output](./static/images/contactus(design).jpg)
+![output](./static/images/home(design).png)
+![output](./static/images/products(design).png)
+![output](./static/images/people(design).png)
+![output](./static/images/contactus(design).png)
 
 ## WIREFRAME:
-![output](./static/images/wireframe.jpg)
+![output](./static/images/wireframe.png)
 
 ## PROTOTYPE:
-![output](./static/images/home.jpg)
-![output](./static/images/products.jpg)
-![output](./static/images/people.jpg)
-![output](./static/images/contactus.jpg)
+![output](./static/images/home.png)
+![output](./static/images/products.png)
+![output](./static/images/people.png)
+![output](./static/images/contactus.png)
 
 ## RESULT:
 Thus, an user experience design and wireframe for a product development company website has been done.
